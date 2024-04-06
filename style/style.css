@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    
+    border: 10px solid white;
+    margin-top: 55px;
+    background-size: auto;
+}
+p{
+    font-size: 20px;
+}
